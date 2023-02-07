@@ -1,0 +1,9 @@
+site_name: "home-spa"
+site_description: "This is a test application"
+
+nav:
+  - Introduction: index.md
+  - FAQs: faqs.md
+
+plugins:
+  - techdocs-core
